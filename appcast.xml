@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>LocalFlow Updates</title>
+    <link>https://github.com/RammonZub/localflow-updates</link>
+    <description>Signed Sparkle updates for LocalFlow.</description>
+  </channel>
+</rss>
