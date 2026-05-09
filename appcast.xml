@@ -1,8 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>LocalFlow Updates</title>
-    <link>https://github.com/RammonZub/localflow-updates</link>
-    <description>Signed Sparkle updates for LocalFlow.</description>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LocalFlow Updates</title>
+        <link>https://github.com/RammonZub/localflow-updates</link>
+        <description>Signed Sparkle updates for LocalFlow.</description>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Sat, 09 May 2026 16:48:25 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://rammonzub.github.io/localflow-updates/releases/LocalFlow-0.2.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://rammonzub.github.io/localflow-updates/releases/LocalFlow-0.2.0.dmg" length="25453702" type="application/octet-stream" sparkle:edSignature="dz1ZoQVnrUAEIcVn1vX5mqpnaOw+8E5CBD1JWiKIAcfy8MaRymkNjSzHWMfP+c13e4NktYqwv6MLP8kgVVo6CQ=="/>
+        </item>
+    </channel>
 </rss>
