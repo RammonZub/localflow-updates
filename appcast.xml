@@ -5,6 +5,18 @@
         <link>https://github.com/RammonZub/localflow-updates</link>
         <description>Signed Sparkle updates for LocalFlow.</description>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Sat, 09 May 2026 17:23:05 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://rammonzub.github.io/localflow-updates/releases/LocalFlow-0.2.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://rammonzub.github.io/localflow-updates/releases/LocalFlow-0.2.1.dmg" length="25453698" type="application/octet-stream" sparkle:edSignature="b+77Bf1FrjUpr9srIqYfA3pSM10wrH8/XAzoigCHGnSXSmMtoS65SK/51H1M7b9c/A7nk1yWMbF9ILu1m8jSAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://rammonzub.github.io/localflow-updates/releases/LocalFlow13-12.delta" sparkle:deltaFrom="12" length="15622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PZamRvN0QmUD/b9yGVrWyn2n6MLDHGSnhjQHJVBqXHiY0wDJVqVDc3j1rkC0L4dBKNKpnYLKlsZw1X1ySzCaAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Sat, 09 May 2026 16:48:25 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
